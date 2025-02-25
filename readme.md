@@ -58,6 +58,10 @@
 ![图片2：录制设备俯视图](俯视图.jpg)
 > 描述：这是录制过程中使用的设备组合，红米 Note 11T Pro 在录制时放在电容麦的后面，这张图是它拍的所以照片里没有红米 Note 11T Pro。
 
+## 数据下载
+通过网盘分享的文件：xk口型数据0.7z  
+链接: https://pan.baidu.com/s/145KNvknHzCYBllUh6ZmFkQ?pwd=0527 提取码: 0527   
+
 ## 许可
 XK口型数据集可在 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode?spm=5176.28103460.0.0.297c5d274sJF0o)  许可下下载，仅限非商业用途。  
 数据集的版权仍归属于XK数据集团队的原作者。  
