@@ -61,5 +61,5 @@
 ## 许可
 XK口型数据集可在 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode?spm=5176.28103460.0.0.297c5d274sJF0o)  许可下下载，仅限非商业用途。  
 数据集的版权仍归属于XK数据集团队的原作者。  
-如需商业使用，欢迎通过邮箱联系我们（xkdataset@example.com）。  
+如需商业使用，欢迎通过邮箱联系我（2375319874@qq.com）。  
 请按照中国及国际相关法律法规使用本数据集。  
